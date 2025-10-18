@@ -57,31 +57,26 @@ The goal is to demonstrate business analysis and data analytics skills by transf
 ---
 
 ## 🗂️ Repository Structure  
-
+```
 Retail-Sales-Analysis/
 │
 ├── SQL/
 │ ├── retail_sales_queries.sql
 │ └── screenshots_of_results/
 │
-
 ├── R/
 │ ├── clean_sales_data_analysis.R
 │ └── output_files/
 │
-
 ├── Excel/
 │ └── pivot_tables.xlsx
 │
-
 ├── Tableau/
 │ ├── dashboard_screenshot.png
 │ └── Tableau_Public_Link.txt
 │
-
 └── README.md
-
-
+```
 ---
 
 ## 🌐 Tableau Dashboard  
